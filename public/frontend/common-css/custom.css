@@ -1,0 +1,9 @@
+.has-error {
+    border: 1px solid red !important;
+}
+.mt-3{
+	margin-top: 16px;
+}
+.invalid-feedback strong{
+color: red !important;
+}
